@@ -1,7 +1,7 @@
 <h1>GASH Cinema App</h1>
 Hello! My name is Alex Gash) Let me intruduce you the very first my creation.
 Working.. cinema... app.
-As a matter of fact i've already found the job of my dream, so i don't really see the bil deal to make this readme really beautiful, but the most important things should be done.
+As a matter of fact i've already found the job of my dream, so i don't really see the big deal to make this readme really beautiful, but the most important things should be done.
 
 <h2>When done?</H2>
 Done in mid autumn 2022 with a pattern of Mate Academy.
@@ -13,6 +13,7 @@ Done in mid autumn 2022 with a pattern of Mate Academy.
   <li> Hibernate </li>
   <li> REST </li>
   <li> Tomcat </li>
+</ul>
 
 <h2> What can do? </h2>
   <li> Can register and login users </li>
@@ -29,6 +30,7 @@ Done in mid autumn 2022 with a pattern of Mate Academy.
        <li> Fulls the shopping-cart, connected to each user, with tickets</li>
        <li> and closes the order with cleaning the shopping-cart till next purchase</li>
       </ul>
+  </li>
 
 <h2> Instructions to install </h2>
 
