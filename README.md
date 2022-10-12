@@ -41,4 +41,4 @@ Done in mid autumn 2022 with a pattern of Mate Academy.
   <li> Run configuration! </li>
 </ol>
 
-
+<h2> Thanks for your attention!) </h2>
